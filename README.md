@@ -1,4 +1,4 @@
-# CESSDA Benchmark Assessment Algorithm
+# CESSDA Benchmark Assessment Algorithm report generator
 
 This repository contains the source code for the CESSDA Benchmark Assessment
 Algorithm report generator
