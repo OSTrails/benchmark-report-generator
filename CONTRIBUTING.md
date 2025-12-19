@@ -33,7 +33,7 @@ deems appropriate and are of acceptable quality.
 Specific requirements and criteria may apply to specific tools.
 
 If you want to contribute to CESSDA tools and services,
-please contact support@cessda.eu before proceeding.
+please contact <support@cessda.eu> before proceeding.
 
 ### Practical matters
 
