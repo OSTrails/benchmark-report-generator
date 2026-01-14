@@ -1,5 +1,7 @@
 # CESSDA Benchmark Assessment Algorithm report generator
 
+[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-silver-lightgrey)](https://api.eu.badgr.io/public/assertions/FaGn5zivROmqVp2QEsepzw "SQAaaS silver badge achieved")
+
 This repository contains the source code for the CESSDA Benchmark Assessment
 Algorithm report generator
 
